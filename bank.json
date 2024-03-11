@@ -1,0 +1,42 @@
+[
+    {
+        "YEAR":"II",
+        "SEMESTER":"I",
+        "Subject":"Operating System"
+    },
+    {
+        "YEAR":"II",
+        "SEMESTER":"I",
+        "Subject":"Java programming"
+    },
+    {
+        "YEAR":"II",
+        "SEMESTER":"I",
+        "Subject":"Object oriented software Engineering"
+    },
+    {
+        "YEAR":"II",
+        "SEMESTER":"I",
+        "Subject":"Discrete Mathematics "
+    },
+    {
+        "YEAR":"II",
+        "SEMESTER":"I",
+        "Subject":"Computer Networks"
+    },
+    {
+        "YEAR":"II",
+        "SEMESTER":"I",
+        "Subject":"Financial Accounting and Management "
+    },
+    {
+        "YEAR":"II",
+        "SEMESTER":"I",
+        "Subject":"Design And Analysis Of Algorithms "
+    },
+    {
+        "YEAR":"II",
+        "SEMESTER":"I",
+        "Subject":"Database Management System"
+    }
+]
